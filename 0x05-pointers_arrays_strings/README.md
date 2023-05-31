@@ -1,0 +1,1 @@
+gonna work with pointers
