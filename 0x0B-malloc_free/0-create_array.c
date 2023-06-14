@@ -6,7 +6,7 @@
  * @c: the specific char initialization
  *
  * Return:NULL if size equal 0
- * Return: a pointer if it fails
+ * return a pointer if it fails
  */
 char *create_array(unsigned int size, char c)
 {
@@ -17,12 +17,12 @@ char *create_array(unsigned int size, char c)
 
 	if (size == 0 || str == NULL)
 	{
-		return NULL;
+		return (NULL);
 	}
 
 	for (i = 0; i < size; i++)
 	{
 		str[i] = c;
 	}
-		return(str);
+		return (str);
 }
