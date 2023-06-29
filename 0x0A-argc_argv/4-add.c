@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 		char *p = argv[i];
 		char c = *p;
 
-		if ((c >= 'a') && (c <= 'z'))
+		if (((c >= 'a') && (c <= 'z')) || ((c >= 'A') && (c <= 'Z')))
 		{
 			printf("Error\n");
 			return (1);
