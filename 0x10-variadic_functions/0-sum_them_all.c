@@ -3,7 +3,6 @@
 /**
  * sum_them_all - returns the sum of parameters
  * @n: arguments
- * @sum: the sum of all parameters
  *
  * Return: sum
  */
@@ -22,5 +21,5 @@ int sum_them_all(const unsigned int n, ...)
 
 	va_end(arguments);
 
-	return(sum);
+	return (sum);
 }
