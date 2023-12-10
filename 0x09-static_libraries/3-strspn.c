@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
+ * _strspn - related to string
+ * @s: paremeter
+ * @accept: parameter
  *
- * iaoidfa
+ * Return: no value
  */
 unsigned int _strspn(char *s, char *accept)
 {
-	//this is likfe
-	return (0);
 }

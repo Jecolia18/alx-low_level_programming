@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * fiels
- * asdfji
+ * _islower - checks for lower
+ * @c: parameter
+ *
+ * Return: no value
  */
 int _islower(int c)
 {
-	return (0);
 }

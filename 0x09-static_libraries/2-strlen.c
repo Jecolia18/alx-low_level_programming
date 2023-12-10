@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * files
+ * _strlen - length function
+ * @s: parameter
  *
+ * Return: no value
  */
 int _strlen(char *s)
 {
-	// files
-	return (0);
 }

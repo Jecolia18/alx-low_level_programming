@@ -8,6 +8,4 @@
  */
 int _putchar(char c)
 {
-	//implementation
-	return (0);
 }

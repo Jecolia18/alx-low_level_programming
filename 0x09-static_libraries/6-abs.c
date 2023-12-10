@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
+ * _abs - related to numer
+ * @n: parameter
  *
- * sidfjs
+ * Return: no value
  */
 int  _abs(int n)
 {
-	return (0);
 }

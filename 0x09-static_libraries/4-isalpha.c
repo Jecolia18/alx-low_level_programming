@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
+ * _isalpha - alpha function
+ * @c: parameter
  *
- * fielsajdf
+ * Return: no value
  */
 int _isalpha(int c)
 {
-	return (0);
 }

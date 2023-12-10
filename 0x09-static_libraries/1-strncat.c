@@ -1,11 +1,14 @@
 #include "main.h"
 
 /**
+ * *_strncat - checks the character
  *
- * eimpty files
+ * @dest: parameter
+ * @src: parameter
+ * @n: integer
+ *
+ * Return: no value
  */
-char *strncat(char *dest, char *src, int n)
+char *_strncat(char *dest, char *src, int n)
 {
-	//none
-	return(0);
 }

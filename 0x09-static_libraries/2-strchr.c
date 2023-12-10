@@ -1,11 +1,13 @@
 #include "main.h"
 
 /**
- * this is an
+ * _strchr - function related to string
  *
+ * @s: pointer to character
+ * @c: character
+ *
+ * Return: no value
  */
 char *_strchr(char *s, char c)
 {
-	//files
-	return (0);
 }

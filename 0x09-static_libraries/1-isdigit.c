@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * empty files
- * empty lines
+ * _isdigit - function that checks for digit
+ * @c: the digit
+ *
+ * Return: no value
  */
 int _isdigit(int c)
 {
-	return (0);
 }

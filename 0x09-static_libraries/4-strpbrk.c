@@ -1,12 +1,13 @@
 #include "main.h"
 
 /**
- * Idont'aoidfajd
- * aoidfj
+ * _*strpbrk - function
+ * @s: parameter
+ * @accept: parameter
+ *
+ * Return: no value
  */
 
 char *strpbrk(char *s, char *accept)
 {
-	//file
-	return (0);
 }

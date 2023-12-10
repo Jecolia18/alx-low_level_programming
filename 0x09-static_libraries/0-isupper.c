@@ -4,10 +4,8 @@
  * _isupper -checks for uppsercase character
  * @c: the character
  *
- * Return: 1 if c is uppercase
+ * Return: void
  */
 int _isupper(int c)
 {
-	//f
-	return (0);
 }
